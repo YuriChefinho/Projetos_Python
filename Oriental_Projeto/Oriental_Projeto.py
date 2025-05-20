@@ -20,7 +20,8 @@ choppSuey = ['Chopp Suey Tradicional', 'Chopp Suey De Frango', 'Chopp Suey De Ca
 frangoXadrez = ['Frango Xadrez Com Castanhas', 'Frango Xadrez Com Legumes', 'Frango Xadrez Com Champignon'] 
 
 
-
+while Ture:
+    print(menu)
 
 #Estrutura Do Cardapio De Yakissoba 
 
