@@ -2,6 +2,14 @@
 
 #criação da lista de produtos
 print('!!!Culinaria Oriental Cardapio!!!')
+
+menu = """
+[ 1 ] YAKISSOBA
+[ 2 ] CHOPP SUEY
+[ 3 ] FRANGO XADREZ
+
+"""
+
 print('YAKISSOBA     [1] \nCHOPP SUEY    [2] \nFRANGO XADREZ [3]')
 cardápio = int(input('Selecione o numero de acordo ao cardapio: '))
 
